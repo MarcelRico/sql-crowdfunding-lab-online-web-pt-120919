@@ -1,0 +1,65 @@
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+INSERT INTO users (name,age) VALUES ("Bobbie",23);
+
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES ("Project 1","Construction",100,"11/02/2020","12/02/2020");
+
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+INSERT INTO pledges (amount,user_id,project_id) VALUES (2300,1,1);
+
